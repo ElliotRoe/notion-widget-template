@@ -1,4 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+<img src="https://notion-widget-template.vercel.app/nwt-logo.svg" width="128" height="128"/>
+<p>
+ 
+<h1 align="center">Notion Widget Template</h1>
+<p align="center"><i>Coding Notion widgets should be easy!</i></p>
 
 ## Getting Started
 
